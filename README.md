@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+--> First of all download the code file and extract then go into code folder then
+--> open cmd and run npm install
+--> then npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
